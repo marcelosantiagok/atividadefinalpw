@@ -61,7 +61,7 @@ $this->view('home/menu');
         <div class="row">
             <div class="col-lg-4 mr-auto">
                 <p class="lead">
-                    My name is Marcelo Vasconcelos Santiago.<br><br>
+                    Meu nome é Marcelo Vasconcelos Santiago.<br><br>
                     Olá atualmente trabalho como Agente de Portaria(Porteiro) de um prédio residencial, e hoje tenho o
                     propósito de ingressar num quadro de equipe de desenvolvimento, sou um estudante da área de TI
                     ultimamente focado em programação, procurando aprender começei cerca de 2 anos atrás em 2018 quando
