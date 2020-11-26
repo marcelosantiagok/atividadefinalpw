@@ -62,22 +62,30 @@ $this->view('home/menu');
             <div class="col-lg-4 mr-auto">
                 <p class="lead">
                     My name is Marcelo Vasconcelos Santiago.<br><br>
-                    Four words to describe me are Enthusiastic, Dynamic, Organized and Strategic.<br><br>
-                    Some of my favorite sports and games are Racing, Programming and Puzzle.<br><br>
-                    Three things that make me happy are: Solve problems, Create solutions and Improve things.<br><br>
-                    My favorite subjects are Programming, Robotics, Physics and Mathematics.<br><br>
+                    Olá atualmente trabalho como Agente de Portaria(Porteiro) de um prédio residencial, e hoje tenho o
+                    propósito de ingressar num quadro de equipe de desenvolvimento, sou um estudante da área de TI
+                    ultimamente focado em programação, procurando aprender começei cerca de 2 anos atrás em 2018 quando
+                    iniciei minha faculdade na uniplan-DF no curso de Análise e Desenvolvimento de Sistemas. Já tinha
+                    interesse na área mas, como na época não tinha conhecimentos de bolsas que poderiam ajudar a
+                    financiar a minha graduação, visto que na época se custava bem caro o curso aqui na minha região,
+                    então isto foi possível ao conseguir uma bolsa de 50% que me ajudou muito para que pudesse pagar
+                    minha faculdade e assim dar início a área de TI, hoje como o mercado de trabalho está exigindo
+                    bastante experiência na área de TI, resolvi me especializar em Engenharia de Software -
+                    Pós-Graduação pela Estácio concluindo no ano de 2021, desde então venho aprendendo durante estes
+                    anos cursos em diversas plataformas, como Udemy, Youtube, programas como Novos
+                    Caminhos(Desenvolvimento Mobile, Programador Web), Senac - Administrador de Banco de Dados, os ramos
+                    da TI que mais me adaptei foram nestes três seguimentos, Desenvolvimento Mobile, Web e Banco de
+                    Dados. Começei também o aperfeiçoamento do inglês, algo que é fundamental nesta área, com o objetivo
+                    de se tornar fluente em inglês. Decidi após a conclusão destes entregar minha proposta ao mercado de
+                    trabalho com a intenção de integrar numa equipe de desenvolvimento. <br><br>
                 </p>
             </div>
             <div class="col-lg-6 ml-auto">
                 <p class="lead">
-                    Student and self-taught with experience in Windows (7/8/8.1/10), Linux
-                    (slackware/ubuntu/kali/lite/slax/etc) and BSD (OpenBSD/FreeBSD) environments.<br><br>
-                    Computer Maintenance (Computer Assembly/Disassembly/Formatting, Resolution Software and Hardware
-                    Problems).<br><br>
-                    Network Installation and Maintenance (Installation and Configuration of Wifi/Radio/Cabeda
-                    Networks).<br><br>
-                    DESKTOP/WEB PROGRAMMER in WINDOWS and LINUX environments with experience in PASCAL/DELPHI/OBJECT
-                    PASCAL, ASSEMBLY/C/C++/LUA/GTK, SQL/SQLITE, HTML/CSS/JAVASCRIPT and PHP.<br><br>
+                    Pós Graduação - Engenharia de Software, Universidade Estácio(2020-2021)<br><br>
+                    Análise e Desenvolvimento de Sistemas - Uniplan DF (2018-2019)<br><br>
+                    Principais tecnologias que venho utilizando: Java - C# - SQL(MySql) - React-Native - PHP - HTML -
+                    CSS - Docker - Javascript <br><br>
                 </p>
             </div>
         </div>
@@ -130,11 +138,11 @@ $this->view('home/menu');
             <div class="col-lg-4">
                 <h4 class="text-uppercase mb-4">Mais Sobre mim</h4>
                 <p class="lead mb-0">
-                    You can see my repositories in
+                    Você pode ver meus respositórios em:
                     <a href="https://github.com/marcelosantiagok" target="_blank">Git Hub</a>
                     <br>
                     <br>
-                    You can add me at
+                    Você pode ver minha rede oficial no linkedin e entrar em contato comigo.
                     <a href="https://www.linkedin.com/in/marcelo-santiago-b94491160/" target="_blank">Linkedin</a>
                 </p>
             </div>

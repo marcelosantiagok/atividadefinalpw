@@ -20,7 +20,7 @@
                                 <div class="divider-custom-line"></div>
                             </div>
                             <!-- Portfolio Modal - Image-->
-                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/3.png" alt="" />
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/1.png" alt="" />
                             <!-- Portfolio Modal - Text-->
                             <p class="mb-5">Este projeto foi desenvolvido em asp.net c# na universidade Uniplan 2019 com
                                 o propósito de aplicar os conhecimentos CRUD.</p>
@@ -93,7 +93,7 @@
                                 <div class="divider-custom-line"></div>
                             </div>
                             <!-- Portfolio Modal - Image-->
-                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/1.png" alt="" />
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/3.png" alt="" />
                             <!-- Portfolio Modal - Text-->
                             <p class="mb-5">Projeto feito na faculdade Uniplan - DF 2019, Desenvolvimento de uma
                                 aplicação web criação de um sistema web para condomínio.</p>
