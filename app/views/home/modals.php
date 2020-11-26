@@ -24,12 +24,6 @@
                             <!-- Portfolio Modal - Text-->
                             <p class="mb-5">Este projeto foi desenvolvido em asp.net c# na universidade Uniplan 2019 com
                                 o propósito de aplicar os conhecimentos CRUD.</p>
-                            <button class="btn btn-primary">
-                                <a href="https://invent.kde.org/graphics/gwenview" target="_blank"
-                                    style="color:#fff; text-decoration: none;">
-                                    Visit the project
-                                </a>
-                            </button>
                         </div>
                     </div>
                 </div>
